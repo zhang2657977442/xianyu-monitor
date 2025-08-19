@@ -28,9 +28,9 @@
 ## 注意事项
 + 请遵守闲鱼的用户协议和robots.txt规则，不要进行过于频繁的请求，以免对服务器造成负担或导致账号被限制。
 + 本项目仅供学习和技术研究使用，请勿用于非法用途。
-+ 本项目采用 [MIT 许可证](https://github.com/zhang2657977442/goofish-monitor/blob/master/LICENSE) 发布，按"现状"提供，不提供任何形式的担保。
++ 本项目采用 [MIT 许可证](https://github.com/zhang2657977442/xianyu-monitor/blob/master/LICENSE) 发布，按"现状"提供，不提供任何形式的担保。
 + 项目作者及贡献者不对因使用本软件而导致的任何直接、间接、附带或特殊的损害或损失承担责任。
-+ 如需了解更多详细信息，请查看 [免责声明](https://github.com/zhang2657977442/goofish-monitor/blob/master/DISCLAIMER.md) 文件。
++ 如需了解更多详细信息，请查看 [免责声明](https://github.com/zhang2657977442/xianyu-monitor/blob/master/DISCLAIMER.md) 文件。
 
 
 如有问题请联系
